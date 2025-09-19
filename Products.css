@@ -3,7 +3,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
 .products-list li{
     width: 300px;
     padding: 20px;
